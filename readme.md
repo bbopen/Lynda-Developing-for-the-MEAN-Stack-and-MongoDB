@@ -1,0 +1,1 @@
+This is just a repo to track my work as I go through [this](http://www.lynda.com/Express.js-tutorials/Developing-MEAN-Stack-MongoDB/191940-2.html) as a quick overview of the MEAN stack.
